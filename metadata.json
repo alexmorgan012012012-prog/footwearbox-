@@ -1,0 +1,6 @@
+{
+  "name": "FOOTWEAR BOX",
+  "description": "Footwear Box - Premium footwear e-commerce website with Bata-inspired shopping experience, real-time product catalog, checkout, order tracking, and comprehensive admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
